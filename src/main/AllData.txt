@@ -1,0 +1,68 @@
+Sport Club : 
+The sports offered by the club : 
+Sport1 : Football
+Sport2 : Tennis
+Sport3 : Gymnastics
+
+the trainers who work in the club : 
+Trainer ID : 1, Name : Ali, mobile Number : 9876543, gender : M, training cost : 40
+Trainer ID : 2, Name : Ava, mobile Number : 5789685, gender : F, training cost : 40
+Trainer ID : 3, Name : Sophia, mobile Number : 95688964, gender : F, training cost : 35
+Trainer ID : 4, Name : Sara, mobile Number : 7548939, gender : F, training cost : 40
+Trainer ID : 5, Name : Charlotte, mobile Number : 5887490, gender : F, training cost : 45
+Trainer ID : 6, Name : James, mobile Number : 8548933, gender : M, training cost : 50
+Trainer ID : 7, Name : Mike, mobile Number : 87583900, gender : M, training cost : 60
+
+Information about all the Kids in the club : 
+Kid ID = 1, Name = Yousef, Age = 10, Number = 98745632, Gender = M
+Kid ID = 2, Name = Fatima, Age = 14, Number = 98745632, Gender = F
+Kid ID = 3, Name = Sana, Age = 17, Number = 98745632, Gender = F
+Kid ID = 4, Name = Mikel, Age = 11, Number = 98745632, Gender = M
+Kid ID = 5, Name = Adam, Age = 15, Number = 98745632, Gender = M
+Kid ID = 6, Name = Yara, Age = 13, Number = 98745632, Gender = F
+Kid ID = 7, Name = Lora, Age = 10, Number = 98745632, Gender = F
+Kid ID = 8, Name = Ahmad, Age = 10, Number = 98745632, Gender = M
+Kid ID = 9, Name = Jhon, Age = 9, Number = 98745632, Gender = M
+Kid ID = 10, Name = Lama, Age = 11, Number = 98745632, Gender = F
+
+All Group Data : 
+group1 : 
+name : Free
+Kids number : 2
+Sport : Football
+
+group2 : 
+name : Joy
+Kids number : 2
+Sport : Gymnastics
+
+group3 : 
+name : Fun
+Kids number : 2
+Sport : Tennis
+
+group4 : 
+name : Happy
+Kids number : 1
+Sport : Gymnastics
+
+group5 : 
+name : Unity
+Kids number : 1
+Sport : Football
+
+group6 : 
+name : Great
+Kids number : 0
+Sport : Tennis
+
+group7 : 
+name : Sea
+Kids number : 1
+Sport : Football
+
+group8 : 
+name : Warmup
+Kids number : 0
+Sport : Tennis
+

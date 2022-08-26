@@ -1,0 +1,40 @@
+group1 : 
+name : Free
+Kids number : 2
+Sport : Football
+
+group2 : 
+name : Joy
+Kids number : 2
+Sport : Gymnastics
+
+group3 : 
+name : Fun
+Kids number : 2
+Sport : Tennis
+
+group4 : 
+name : Happy
+Kids number : 1
+Sport : Gymnastics
+
+group5 : 
+name : Unity
+Kids number : 1
+Sport : Football
+
+group6 : 
+name : Great
+Kids number : 0
+Sport : Tennis
+
+group7 : 
+name : Sea
+Kids number : 1
+Sport : Football
+
+group8 : 
+name : Warmup
+Kids number : 0
+Sport : Tennis
+
